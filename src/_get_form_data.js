@@ -7,4 +7,6 @@ formData.get('name of the input field')
 3.controlled component, one per each field. use state on change of the field. useful dynamic error handling.
 
 4.Uncontrolled using useRef.
+
+5. Hook form
 `
